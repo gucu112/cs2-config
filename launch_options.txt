@@ -1,0 +1,1 @@
+-nod3d9ex1 -nojoy -novid -fullscreen -freq 75 +mat_queue_mode 2 +cl_forcepreload 1 +exec autoexec.cfg
