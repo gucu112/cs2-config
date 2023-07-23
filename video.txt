@@ -1,6 +1,6 @@
 "VideoConfig"
 {
-	"setting.cpu_level"		"1"
+	"setting.cpu_level"		"2"
 	"setting.gpu_level"		"2"
 	"setting.mat_antialias"		"0"
 	"setting.mat_aaquality"		"0"
