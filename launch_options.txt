@@ -1,1 +1,1 @@
--nod3d9ex -nojoy -novid -fullscreen -freq 75 -refresh 75 +mat_queue_mode 2 +cl_forcepreload 1 +mat_disable_fancy_blending 1 +exec autoexec.cfg
+-novid -fullscreen -refresh 75
