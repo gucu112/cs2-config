@@ -17,10 +17,10 @@
 | Key    | Description               | Cost             | Your money         | Tier |
 | ------ | ------------------------- | ---------------- | ------------------ | ---- |
 | \      | Kevlar + DK               | T:$1000 CT:$1400 | T:>$3000 CT:>$3500 | -    |
-| H      | Grenades (M+S+F+G)        | T:$1200 CT:$1400 | >$4000             | G    |
-| J      | Grenades (M+S+2F)         | T:$1100 CT:$1300 | >$4000             | G    |
-| K      | Grenades (S+2F)           | $700             | >$2000             | G    |
-| L      | Grenades (F+S)            | $500             | >$1000             | G    |
+| H      | Grenades (M+S+F+G)        | T:$1200 CT:$1400 | >$5000             | G    |
+| J      | Grenades (M+S+2F)         | T:$1100 CT:$1300 | >$5000             | G    |
+| K      | Grenades (S+2F)           | $700             | >$3000             | G    |
+| L      | Grenades (F+S)            | $500             | >$3000             | G    |
 | B      | Buy menu                  | $-               | $0-$16000          | -    |
 | N      | Refund all weapons        | $+               | $0-$16000          | -    |
 | CTRL+H | 3rd Rifle + Kevlar + DK   | T:$3700 CT:$4300 | T:>$4000 CT:>$5000 | A    |
@@ -29,10 +29,10 @@
 | CTRL+L | 1st MidTier + Vest        | T:$1700 CT:$1900 | $1500-$2500        | D    |
 | CTRL+B | 5th Pistol + Vest         | $1350            | $2500-$3500        | C    |
 | CTRL+N | 2nd Pistol (Eco)          | $300             | $500-$2500         | E    |
-| INS    | Desert Eagle              | $700             | $2500-$3500        | C    |
-| DEL    | P250                      | $300             | $500-$2500         | E    |
-| HOME   | Five-SeveN / Tec-9        | $500             | $500-$2500         | E    |
-| END    | Dual Berettas             | $300             | $500-$2500         | E    |
+| Ins    | Desert Eagle              | $700             | $2500-$3500        | C    |
+| Del    | P250                      | $300             | $500-$2500         | E    |
+| Home   | Five-SeveN / Tec-9        | $500             | $500-$2500         | E    |
+| End    | Dual Berettas             | $300             | $500-$2500         | E    |
 | PgUp   | AWP                       | $4750            | T:>$6000 CT:>$6000 | S    |
 | PgDown | SSG 08 (Scout)            | $1700            | $2500-$3500        | C    |
 | Num1   | AK-47                     | $2700            | T:>$4000           | A    |
