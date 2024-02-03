@@ -19,7 +19,7 @@
 | \      | Kevlar + DK               | T:$1000 CT:$1400 | T:>$3000 CT:>$3500 | -    |
 | H      | Grenades (M+S+F+G)        | T:$1200 CT:$1400 | >$5000             | G    |
 | J      | Grenades (M+S+2F)         | T:$1100 CT:$1300 | >$5000             | G    |
-| K      | Grenades (S+2F)           | $700             | >$3000             | G    |
+| K      | Grenades (S+2F+G)         | $1000            | >$4000             | G    |
 | L      | Grenades (F+S)            | $500             | >$3000             | G    |
 | B      | Buy menu                  | $-               | $0-$16000          | -    |
 | N      | Refund all weapons        | $+               | $0-$16000          | -    |
