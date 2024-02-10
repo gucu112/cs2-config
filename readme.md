@@ -4,7 +4,14 @@
 
 ## Features
 
-* **TODO**
+* Jump & throw
+* Increase volume when walking
+* Show equipment toggle
+* Radar scaling
+* Show netgraph with scoreboard
+* Fast bomb drop
+* Buy aliases
+* Desubtick movement keys (disabled)
 
 ## General key binds
 
