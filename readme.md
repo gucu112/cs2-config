@@ -8,7 +8,7 @@
 * Increase volume when walking
 * Show equipment toggle
 * Radar scaling
-* Show netgraph with scoreboard
+* Show telemetry with scoreboard
 * Fast bomb drop
 * Buy aliases
 * Desubtick movement keys (disabled)
