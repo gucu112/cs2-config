@@ -1,1 +1,1 @@
--novid -fullscreen -refresh 75
+-novid -fullscreen -freq 75
