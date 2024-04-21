@@ -11,6 +11,8 @@
 * Show telemetry with scoreboard
 * Fast bomb drop
 * Buy aliases
+* Volume aliases
+* Mute aliases (disabled)
 * Desubtick movement keys (disabled)
 
 ## General key binds
@@ -25,17 +27,17 @@
 | ------ | ------------------------- | ---------------- | ------------------ | ---- |
 | \      | Kevlar + DK               | T:$1000 CT:$1400 | T:>$3000 CT:>$3500 | -    |
 | H      | Grenades (M+S+F+G)        | T:$1200 CT:$1400 | >$5000             | G    |
-| J      | Grenades (M+S+2F)         | T:$1100 CT:$1300 | >$5000             | G    |
+| J      | Grenades (S+2F+M)         | T:$1100 CT:$1300 | >$5000             | G    |
 | K      | Grenades (S+2F+G)         | $1000            | >$4000             | G    |
 | L      | Grenades (F+S)            | $500             | >$3000             | G    |
 | B      | Buy menu                  | $-               | $0-$16000          | -    |
 | N      | Refund all weapons        | $+               | $0-$16000          | -    |
-| CTRL+H | 3rd Rifle + Kevlar + DK   | T:$3700 CT:$4300 | T:>$4000 CT:>$5000 | A    |
-| CTRL+J | 1st Rifle + Kevlar + DK   | T:$2800 CT:$3450 | T:>$3000 CT:>$3500 | B    |
-| CTRL+K | 5th MidTier + Kevlar + DK | T:$3000 CT:$3400 | T:>$3000 CT:>$3500 | B    |
-| CTRL+L | 1st MidTier + Vest        | T:$1700 CT:$1900 | $1500-$2500        | D    |
-| CTRL+B | 5th Pistol + Vest         | $1350            | $2500-$3500        | C    |
-| CTRL+N | 2nd Pistol (Eco)          | $300             | $500-$2500         | E    |
+| F5     | 3rd Rifle + Kevlar + DK   | T:$3700 CT:$4300 | T:>$4000 CT:>$5000 | A    |
+| F6     | 1st Rifle + Kevlar + DK   | T:$2800 CT:$3450 | T:>$3000 CT:>$3500 | B    |
+| F7     | 5th MidTier + Kevlar + DK | T:$3000 CT:$3400 | T:>$3000 CT:>$3500 | B    |
+| CTRL+B | 1st MidTier + Vest        | T:$1700 CT:$1900 | $1500-$2500        | D    |
+| CTRL+N | 5th Pistol + Vest         | $1350            | $2500-$3500        | C    |
+| CTRL+M | 2nd Pistol (Eco)          | $300             | $500-$2500         | E    |
 | Ins    | Desert Eagle              | $700             | $2500-$3500        | C    |
 | Del    | P250                      | $300             | $500-$2500         | E    |
 | Home   | Five-SeveN / Tec-9        | $500             | $500-$2500         | E    |
