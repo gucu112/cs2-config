@@ -2,7 +2,7 @@
 {
 	"setting.defaultres"		"1440"
 	"setting.defaultresheight"		"1080"
-	"setting.refreshrate_numerator"		"74924"
+	"setting.refreshrate_numerator"		"165003"
 	"setting.refreshrate_denominator"		"1000"
 	"setting.fullscreen"		"1"
 	"setting.mat_vsync"		"0"
@@ -51,7 +51,7 @@
 	"setting.r_csgo_mboit_force_mixed_resolution"		"0"
 	"setting.r_csgo_fsr_upsample"		"0"
 	"setting.mat_viewportscale"		"1.000000"
-	"setting.sc_hdr_enabled_override"		"3"
+	"setting.sc_hdr_enabled_override"		"-1"
 	"setting.r_low_latency"		"2"
 	"setting.aspectratiomode"		"0"
 }
