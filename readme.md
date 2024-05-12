@@ -6,14 +6,10 @@
 
 * Jump & throw
 * Increase volume when walking
-* Show equipment toggle
-* Radar scaling
 * Show telemetry with scoreboard
 * Fast bomb drop
 * Buy aliases
 * Volume aliases
-* Mute aliases (disabled)
-* Desubtick movement keys (disabled)
 
 ## General key binds
 
