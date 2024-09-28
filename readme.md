@@ -5,19 +5,32 @@
 ## Features
 
 * Jump & throw
-* Increase volume when walking
-* Show telemetry with scoreboard
+* Switch hands
 * Fast bomb drop
-* Buy aliases
+* Increase volume when walking
 * Volume aliases
+* Buy aliases
+* Show telemetry
 
-## General key binds
+## Key bindings
+
+### Mouse
+
+| Key        | Description               | Command  |
+| ---------- | ------------------------- | -------- |
+| Left       | Primary action            | +attack  |
+| Right      | Secondary action          | +attack2 |
+| Middle     | **TODO**                  |          |
+| Side Up    |                           |          |
+| Side Down  |                           |          |
+| Wheel Up   |                           |          |
+| Wheel Down |                           |          |
+
+### Keyboard
 
 **TODO**
 
-|  | **TODO** |  |
-
-## Buy key binds
+### Buy
 
 | Key    | Description               | Cost             | Your money         | Tier |
 | ------ | ------------------------- | ---------------- | ------------------ | ---- |
