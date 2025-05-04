@@ -10,6 +10,12 @@ if (-not $SteamCurrentUser) {
     $SteamCurrentUser = Get-ItemPropertyValue -Path 'HKCU:\Software\Valve\Steam\ActiveProcess' -Name 'ActiveUser'
 }
 
+# Check if steam is running
+if ($SteamCurrentUser -eq 0) {
+    Write-Error 'Steam is not running'
+    exit 1
+}
+
 # Get game configuration directory
 $GameBasePath = Get-ItemPropertyValue -Path 'HKLM:\Software\WOW6432Node\Valve\CS2' -Name 'InstallPath'
 $GameConfigPath = Join-Path $GameBasePath 'game\core\cfg'
