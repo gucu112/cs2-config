@@ -22,7 +22,7 @@ $GameConfigPath = Join-Path $GameBasePath 'game\core\cfg'
 
 # Get steam user settings directory
 $SteamBasePath = Get-ItemPropertyValue -Path 'HKLM:\Software\WOW6432Node\Valve\Steam' -Name 'InstallPath'
-$UserSettingsPath = Join-Path $SteamBasePath 'userdata' $SteamCurrentUser '730\local\cfg'
+$UserSettingsPath = Join-Path $SteamBasePath "userdata\$SteamCurrentUser\730\local\cfg"
 
 # Copy over configuration files
 Write-Verbose "Performing the operation `"Update CS2 Config`" on target `"Item: $GameConfigPath`"." -Verbose
